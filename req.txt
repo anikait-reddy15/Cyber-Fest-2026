@@ -1,0 +1,14 @@
+pandas
+streamlit
+scikit-learn
+joblib
+numpy
+google-play-scraper
+torch
+transformers
+peft
+bitsandbytes
+accelerate
+trl
+datasets
+huggingface_hub
